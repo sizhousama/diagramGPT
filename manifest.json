@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "DiagramGPT",
+  "description": "一个通过ChatGPT快速生成UML图表的工具",
+  "version": "1.0.0",
+  "author": "@anker-evan.jia",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "128": "public/128.png"
+    },
+    "permissions": [
+      "experimental"
+    ]
+  }
+}
