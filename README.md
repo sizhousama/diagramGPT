@@ -30,3 +30,5 @@ pnpm build
 
 Open the Chrome extension management interface and add the packaged folder to the extensions.
 
+![20230602153043_rec_](https://github.com/sizhousama/diagramGPT/assets/40018231/ee55516a-1be1-4571-8b49-a9cd5c409511)
+
