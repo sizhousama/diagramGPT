@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "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"; //替换成你申请的open AI key
+const API_KEY = ""; //替换成你申请的open AI key
 const model = "gpt-3.5-turbo"; //使用的语言模型
 
 const api = axios.create({
